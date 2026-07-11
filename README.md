@@ -1,17 +1,19 @@
-# Darvareh Examples
+## Supported Integrations
 
-Examples for integrating applications with Darvareh AI Infrastructure Platform.
+Darvareh works with:
 
-## Quick Start
-
-Use Darvareh with any OpenAI-compatible SDK.
-
-## Examples
-
-- Python
-- JavaScript
-- cURL
+- OpenAI SDK
 - LangChain
+- LlamaIndex
+- Custom applications
+- AI Agents
 
-Documentation:
+## API Endpoint
+
+OpenAI-compatible endpoint:
+
+https://api.darvareh.ir/v1
+
+## Documentation
+
 https://hub.darvareh.ir
